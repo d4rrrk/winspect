@@ -2,4 +2,4 @@
 
 files for a meterpreter shell for my own testing. 
 
-winspect - port 443
+winspect - tcp port 443
